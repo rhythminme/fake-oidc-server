@@ -1,0 +1,27 @@
+{
+  "name": "fake-oidc-server",
+  "version": "1.0.0",
+  "description": "Fake OpenID Connect Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhythminme/fake-oidc-server.git"
+  },
+  "keywords": [
+    "OIDC",
+    "Node"
+  ],
+  "author": "Rhythm in me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhythminme/fake-oidc-server/issues"
+  },
+  "homepage": "https://github.com/rhythminme/fake-oidc-server#readme",
+  "dependencies": {
+    "camelcase": "^5.3.1",
+    "oidc-provider": "^6.20.3"
+  }
+}
